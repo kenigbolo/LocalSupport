@@ -350,9 +350,8 @@ GEM
       railties (>= 3.1)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    uglifier (2.5.3)
-      execjs (>= 0.3.0)
-      json (>= 1.8.0)
+    uglifier (4.1.20)
+      execjs (>= 0.3.0, < 3)
     underscore-rails (1.8.3)
     unf (0.1.4)
       unf_ext
@@ -430,7 +429,7 @@ DEPENDENCIES
   therubyracer
   timecop
   twitter-bootstrap-rails (= 3.2.2)
-  uglifier (= 2.5.3)
+  uglifier (= 4.1.20)
   underscore-rails
   unicorn
   uri-handler
