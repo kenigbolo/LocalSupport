@@ -61,7 +61,7 @@ group :production do
 end
 
 gem 'coffee-rails', "4.1.0"
-gem 'uglifier', '2.5.3'
+gem 'uglifier', '4.1.20'
 gem 'sass-rails', '4.0.3'
 gem 'less-rails', '2.5.0'
 gem 'twitter-bootstrap-rails', '3.2.2'
