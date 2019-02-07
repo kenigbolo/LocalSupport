@@ -270,7 +270,7 @@ GEM
       thor (>= 0.18.1, < 2.0)
     raindrops (0.19.0)
     rake (12.3.2)
-    redcarpet (3.3.2)
+    redcarpet (3.4.0)
     ref (1.0.5)
     responders (2.4.1)
       actionpack (>= 4.2.0, < 6.0)
