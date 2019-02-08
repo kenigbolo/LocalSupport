@@ -63,7 +63,7 @@ end
 gem 'coffee-rails', "4.2.2"
 gem 'uglifier', '4.1.20'
 gem 'sass-rails', '4.0.3'
-gem 'less-rails', '2.5.0'
+gem 'less-rails', '4.0.0'
 gem 'twitter-bootstrap-rails', '3.2.2'
 
 gem 'font-awesome-rails'
