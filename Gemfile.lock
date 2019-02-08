@@ -186,11 +186,12 @@ GEM
     kgio (2.11.2)
     launchy (2.4.3)
       addressable (~> 2.3)
-    less (2.5.1)
+    less (2.6.0)
       commonjs (~> 0.2.7)
-    less-rails (2.5.0)
-      actionpack (>= 3.1)
-      less (~> 2.5.0)
+    less-rails (4.0.0)
+      actionpack (>= 4)
+      less (~> 2.6.0)
+      sprockets (>= 2)
     letter_opener (1.7.0)
       launchy (~> 2.2)
     libv8 (3.16.14.11)
@@ -407,7 +408,7 @@ DEPENDENCIES
   jasmine-jquery-rails (= 2.0.3)
   jquery-rails
   launchy
-  less-rails (= 2.5.0)
+  less-rails (= 4.0.0)
   letter_opener
   newrelic_rpm
   paranoia (~> 2.4)
