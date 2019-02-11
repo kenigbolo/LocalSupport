@@ -249,7 +249,7 @@ GEM
     rack_session_access (0.1.1)
       builder (>= 2.0.0)
       rack (>= 1.0.0)
-    railroady (1.3.0)
+    railroady (1.5.3)
     rails (4.2.11)
       actionmailer (= 4.2.11)
       actionpack (= 4.2.11)
