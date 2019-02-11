@@ -355,7 +355,7 @@ GEM
     thor (0.19.4)
     thread_safe (0.3.6)
     tilt (1.4.1)
-    timecop (0.7.4)
+    timecop (0.9.1)
     tins (1.6.0)
     twitter-bootstrap-rails (3.2.2)
       actionpack (>= 3.1)
