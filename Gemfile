@@ -4,7 +4,7 @@ ruby '2.3.0'
 gem 'rails', '~> 4.2.11'
 gem 'pg'
 gem 'devise', '~> 4.5.0'
-gem 'devise_invitable', '~> 1.3.0'
+gem 'devise_invitable', '~> 1.7.5'
 gem 'heroku-api'
 
 # Bundle edge Rails instead:
