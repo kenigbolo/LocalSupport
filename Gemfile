@@ -69,7 +69,7 @@ gem 'twitter-bootstrap-rails', '3.2.2'
 gem 'font-awesome-rails'
 
 gem 'jquery-rails'
-gem 'bootstrap_sortable_rails', '~> 0.1.3'
+gem 'bootstrap_sortable_rails', '~> 1.11.2'
 
 # Use unicorn as the web server
 # gem 'unicorn'
