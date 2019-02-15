@@ -13,7 +13,7 @@ gem 'heroku-api'
 # for Heroku deployment - as described in Ap. A of ELLS book
 group :development, :test do
   gem 'timecop'
-  gem 'database_cleaner', '1.0.1'
+  gem 'database_cleaner', '1.7.0'
   gem 'launchy'
   gem 'simplecov'
   gem 'sinatra-base'
