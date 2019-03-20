@@ -232,7 +232,7 @@ GEM
       cliver (~> 0.3.1)
       websocket-driver (>= 0.2.0)
     public_suffix (3.0.3)
-    puffing-billy (2.0.0)
+    puffing-billy (2.1.0)
       addressable (~> 2.5)
       em-http-request (~> 1.1, >= 1.1.0)
       em-synchrony
