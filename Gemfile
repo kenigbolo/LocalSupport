@@ -43,7 +43,7 @@ group :test do
   gem 'capybara', '3.18.0'
   gem "capybara-webkit", "~> 1.15.1"
   gem 'factory_girl_rails', :require => false
-  gem 'webmock', '3.7.2'
+  gem 'webmock', '3.7.3'
   gem 'uri-handler'
   gem 'selenium'
   gem 'selenium-client'
