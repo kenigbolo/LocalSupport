@@ -64,13 +64,13 @@ GEM
     bootstrap_sortable_rails (1.11.2)
     builder (3.2.3)
     byebug (11.0.1)
-    capybara (3.18.0)
+    capybara (3.29.0)
       addressable
       mini_mime (>= 0.1.3)
       nokogiri (~> 1.8)
       rack (>= 1.6.0)
       rack-test (>= 0.6.3)
-      regexp_parser (~> 1.2)
+      regexp_parser (~> 1.5)
       xpath (~> 3.2)
     capybara-webkit (1.15.1)
       capybara (>= 2.3, < 4.0)
@@ -394,7 +394,7 @@ DEPENDENCIES
   binding_of_caller
   bootstrap_sortable_rails (~> 1.11.2)
   byebug
-  capybara (= 3.18.0)
+  capybara (= 3.29.0)
   capybara-webkit (~> 1.15.1)
   coffee-rails (= 4.2.2)
   coveralls
