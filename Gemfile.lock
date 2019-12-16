@@ -151,7 +151,7 @@ GEM
     erubis (2.7.0)
     eventmachine (1.2.7)
     eventmachine_httpserver (0.2.1)
-    excon (0.62.0)
+    excon (0.71.0)
     execjs (2.7.0)
     factory_girl (4.9.0)
       activesupport (>= 3.0.0)
