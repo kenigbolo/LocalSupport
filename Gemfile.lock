@@ -180,7 +180,7 @@ GEM
       concurrent-ruby (~> 1.0)
     jar_wrapper (0.1.8)
       zip
-    jasmine (3.5.0)
+    jasmine (3.5.1)
       jasmine-core (~> 3.5.0)
       phantomjs
       rack (>= 1.2.1)
@@ -241,7 +241,7 @@ GEM
       multi_json
     quiet_assets (1.1.0)
       railties (>= 3.1, < 5.0)
-    rack (1.6.12)
+    rack (1.6.13)
     rack-protection (1.5.5)
       rack
     rack-test (0.6.3)
@@ -282,7 +282,7 @@ GEM
       rake (>= 0.8.7)
       thor (>= 0.18.1, < 2.0)
     raindrops (0.19.1)
-    rake (13.0.0)
+    rake (13.0.1)
     rbtree3 (0.6.0)
     redcarpet (3.5.0)
     ref (2.0.0)
@@ -412,7 +412,7 @@ DEPENDENCIES
   gmaps4rails (= 2.1.2)
   heroku-api
   httparty
-  jasmine (= 3.5.0)
+  jasmine (= 3.5.1)
   jasmine-jquery-rails (= 2.0.3)
   jquery-rails
   launchy
