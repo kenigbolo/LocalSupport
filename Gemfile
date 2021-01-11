@@ -101,4 +101,4 @@ gem 'dotenv-rails'
 gem 'airbrake'
 
 # Using user friendly names in URLs
-gem 'friendly_id', '~> 5.3.0'
+gem 'friendly_id', '~> 5.4.2'
